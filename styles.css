@@ -22,7 +22,7 @@ body {
 
 /* Header styles */
 header {
-    background: transparent; /* Keep header background transparent to show the animated background */
+    background: transparent; 
     padding: 50px;
     text-align: center;
 }
